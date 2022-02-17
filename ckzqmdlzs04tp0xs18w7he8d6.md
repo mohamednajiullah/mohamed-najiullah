@@ -12,4 +12,6 @@ In recent years, I've had the privilege of working with many such people who had
 
 I hope the recent increase in hiring and the crunch of talented people opens recruiters to looking more favourably at people with career breaks.
 
+Photo by Karolina Grabowska from Pexels
+
 P.S Thoughtworks India has a program([Vapasi](https://www.thoughtworks.com/en-in/careers/program/talk-tech/vapasi)) dedicated to helping women return to tech careers after a break.
