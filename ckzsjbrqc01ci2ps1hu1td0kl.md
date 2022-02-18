@@ -40,7 +40,7 @@ While this small example is very easy to understand, there are a few things that
 - The third person, however, was able to succeed because she received two very important things. The first was information on how to improve her aim and get better at achieving the goal. This made her aim better by processing the constant information being given to her as feedback. The second was the encouragement that she received even when she missed her target. This helped her not lose hope even when she missed.
 The quality of feedback depends directly on the amount of information that is conveyed. More the data, better the understanding of what went well and what can be improved upon. It is important to consider that feedback is given by people who typically have different roles resulting in different perspectives. This makes it vital to connect the data with the inferences drawn from it. It also helps in fighting any bias that may arise.
 
-The importance of encouragement regardless of success or failure cannot be overstated. [Here's an excellent cartoon, on how much of a change encouragement can make, from ZenPencil](http://www.zenpencils.com/wp-content/uploads/2014-10-24-kevinsmith.jpg)
+The importance of encouragement regardless of success or failure cannot be overstated. [Here's an excellent cartoon, on how much of a change encouragement can make, from ZenPencil](https://zenpencils.com/comic/kevinsmith)
 
 ![2014-10-24-kevinsmith.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1645196044314/iDnmgft5yi.jpeg)
 
