@@ -1,4 +1,4 @@
-## Everything has Context
+## Life, like Development, has Context
 
 In any long running software development project, there'll always be a point where we question past choices. Some of those choices can appear downright stupid just a few years later, especially to those who were not there when those choices were made.
 
