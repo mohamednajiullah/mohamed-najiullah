@@ -1,6 +1,6 @@
 ## Receiving feedback asynchronously
 
-*(This is the second of a two part series on Asynchronous Feedback that I wrote for [Sumeet Moghe](https://www.linkedin.com/in/sumeetmoghe/)'s fantastic [Async Agile](https://www.asyncagile.org/)project)*
+*(This is the second of a two part series on Asynchronous Feedback that I wrote for [Sumeet Moghe](https://www.linkedin.com/in/sumeetmoghe/)'s fantastic [Async Agile](https://www.asyncagile.org/) project)*
 
 Feedback is a gift which some of us are very generous with. Sometime ago, [I wrote an article](https://www.asyncagile.org/perspectives/giving-feedback-asynchronously) about giving feedback asynchronously. But it’s equally important for us to ask for, receive and process async feedback in the right way. The lack of facial and audio cues that we use in face-to-face and zoom meetings can make this challenging.
 
