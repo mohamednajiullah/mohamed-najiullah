@@ -1,4 +1,4 @@
-## Be Patient with Constructive Feedback
+# Be Patient with Constructive Feedback
 
 I recently wrote an article about receiving feedback where one of the points I mentioned was "to assume positive intent".
 
